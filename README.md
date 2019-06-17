@@ -1,5 +1,5 @@
 # Pentagon-Area
-This is a program that prompts the user to enter  the length from the center of a pentagon to a vertex and computes the area of the  pentagon.
+This is a program that prompts the user to enter required values and calculates the area of the selected shape (regular polygon, pentagon, and hexagon).
 
 ### Here's a sample run:
 
