@@ -1,4 +1,4 @@
-# Calculating areas
+# Calculating Areas
 This is a program that prompts the user to enter required values and calculates the area of the selected shape (regular polygon, pentagon, and hexagon).
 
 ### Here are some sample runs:
